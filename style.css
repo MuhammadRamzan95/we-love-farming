@@ -1,0 +1,108 @@
+.navbar{
+    background-color: #AB47BC !important;
+  
+}
+.nav-link {
+    color: white !important;
+    font-weight: bold !important ;
+}
+.fa-user-circle-o {
+    font-size: 32px !important;
+}
+.fa-truck {
+    font-size: 50px !important;
+    margin-right: 10px;
+    color: #AB47BC !important;
+
+}
+h3 {
+    color: #AB47BC !important;
+    
+}
+
+.card1,.card2,.card3 {
+    display: flex;
+    background-color:#fff;
+    box-shadow: 2px 4px 5px grey;
+    width: 300px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    
+} 
+.carddiary {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+.fa-headphones,.fa-thumbs-up {
+    font-size: 50px !important;
+    margin-right: 10px;
+    color: #AB47BC !important;
+  
+}
+.newArrival {
+    margin-top: 20px;
+}
+.card {
+    width: 200px;
+    height: auto;
+    margin-bottom: 7px;
+}
+.card-title {
+color:#AB47BC ;
+}
+.card-text {
+    font-weight: bold;
+    color:#AB47BC ;
+}
+.btn-primary {
+
+background-color:#AB47BC ;
+}
+.heading {
+    text-align: center;
+    color:#AB47BC ;
+    text-shadow: 2px 3px 5px black;
+
+}
+.newArrival {
+    margin-top: 20px;
+}
+.card {
+    width: 200px;
+    height: auto;
+    margin-bottom: 7px;
+}
+.card-title {
+color:#AB47BC ;
+}
+.card-text {
+    font-weight: bold;
+    color:#AB47BC ;
+}
+.btn-primary {
+
+background-color:#AB47BC ;
+}
+.heading {
+    text-align: center;
+    color:#AB47BC ;
+    text-shadow: 2px 3px 5px black;
+
+}
+.footer {
+    width: 100%;
+    background-color:#AB47BC ;
+    height: 100px;
+}
+@media only screen and (max-width: 600px) {
+    .card1,.card2,.card3 {
+        width: 100%;
+    }
+  }
+  
